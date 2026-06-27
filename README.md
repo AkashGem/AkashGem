@@ -48,3 +48,27 @@
 - Integrated custom HTML pages into WordPress, managing content updates and performance optimization.
 - Worked closely with digital marketing teams to deliver SEO-friendly pages and conversion-focused experiences.
 - Gained hands-on experience with React.js fundamentals and front-end development practices.
+
+## 🏆 Certifications
+
+- 🎓 **Google UX Design Professional Certificate** · Google *(2025)*
+- 🎓 **Atlassian Agile Project Management Professional Certificate** · Atlassian *(2025)*
+- 🎓 **PHP Master Basics and Dynamic Coding Certificate** · Udemy *(2024)*
+- 🎓 **Search Engine Optimization (SEO) Certificate** · HubSpot Academy *(2024)*
+- 🎓 **Content Marketing Toolkit Certificate** · Semrush Academy *(2021)*
+
+## 💬 Ask me about
+
+- Front-End Engineering and scalable digital product development
+- Building dashboards, SaaS products, and enterprise applications
+- Figma/XD/PSD to HTML conversion and pixel-perfect UI implementation
+- Landing page development and conversion-focused UI implementation
+- AI-assisted development, Vibe Coding, and modern development workflows
+- Responsive web development, performance optimization, and reusable UI components
+
+## 🤝 Connect with Me
+
+- 🌐 **Portfolio:** [www.akashuiux.com](https://www.akashuiux.com/)
+- 💼 **LinkedIn:** [akashnikam](https://www.linkedin.com/in/akashnikam/)
+- 💻 **GitHub:** [AkashGem](https://github.com/AkashGem)
+- 📧 **Email:** hello@akashuiux.com
