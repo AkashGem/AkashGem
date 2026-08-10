@@ -18,36 +18,34 @@
 
 #### **Senior Software Engineer @ Novatechset Software** *(May 2022 - Nov 2025)*
 
-- Led a cross-functional team of 8+ developers and designers, ensuring the successful delivery of scalable web applications and digital products.
-- Redesigned dashboards for better data visualization resulting 40% faster decision-making through better UX flows.
-- Improved application scalability and code maintainability by adopting standardized front-end engineering practices.
-- Streamlined the design-to-development workflow, reducing design rework through reusable UI components and standardized development practices.
-- Led technical training sessions for 15+ team members on frontend and UI designing, enhance technical capabilities.
-- Collaborated with clients and business stakeholders to deliver high-quality front-end solutions.
+- Led the integration of a responsive web layout using modern JavaScript libraries, which enhanced user engagement by 30%, improving overall customer satisfaction metrics.
+- Mentored and trained junior developers on frontend development best practices, coding standards, and design principles, improving code quality and team collaboration.
+- Redesigned responsive dashboards with improved layouts, reusable UI components, and data visualization elements, enhancing usability and overall application experience.
+- Spearheaded the integration of accessibility features into all projects, ensuring compliance with ADA standards and expanding market reach.
+- Conducted regular code reviews and collaborative brainstorming sessions, fostering a culture of continuous improvement, which led to a team-wide reduction in coding errors.
+- Contributed to the development of a new feature set utilizing React, producing an increase in page-time metrics, improving conversion rates by 15% across the platform.
 
 #### **Software Engineer @ Redbytes Software** *(May 2021 – Mar 2022)*
 
 - Translated complex business requirements into scalable, user-friendly front-end solutions while maintaining high development standards. 
-- Developed responsive KPI dashboards, healthcare applications, and business portals by converting Figma designs into pixel-perfect React.js and Bootstrap interfaces.
-- Conducted WCAG 2.1 accessibility audits and implemented best practices to improve usability and compliance. 
-- Designed scalable UI layouts in Figma using design systems, reusable components, typography and Auto Layout.
+- Converted Adobe XD and Figma designs into responsive HTML5/CSS3 interfaces, ensuring pixel-accurate implementation and consistency across screen sizes.
+- Collaborated with backend development teams to integrate RESTful APIs, ensuring efficient data handling and seamless frontend functionality.
+- Collaborated with UX/UI and development teams to address accessibility issues and maintain WCAG 2.1 compliance across web applications.
 - Contributed to Agile/Scrum teams by participating in sprint planning, code reviews, and product enhancements.
 
 #### **Software Developer @ Vidushi Infotech SSP PVT LTD** *(Dec 2020 – Apr 2021)*
 
-- Led the front-end development of custom business websites using Bootstrap, React.js, increasing conversion rates by 30% and reducing bounce rates by 40%.
-- Implemented WordPress theme customizations and performance enhancements aligned with client needs and business objectives.
-- Converted Adobe XD and PSD designs into responsive, pixel-perfect HTML templates with design consistency. 
-- Worked with business analysts and stakeholders to gather requirements and deliver effective front-end solutions.
+- Developed and customized WordPress websites, implementing responsive and user-friendly frontend interfaces using HTML5, CSS3, JavaScript, Bootstrap, and jQuery.
+- Converted PSD/XD designs into pixel-accurate HTML5 layouts, ensuring responsive and cross-browser compatible implementations.
+- Optimized WordPress websites for performance, responsiveness, page loading speed, and frontend efficiency, while maintaining design and functionality.
+- Collaborated with designers and development teams to translate design concepts into production-ready responsive web interfaces.
 
 #### **Web Designer @ VARStreet Inc.** *(Feb 2019 – SEP 2020)*
 
-- Designed and developed responsive Websites and landing pages using HTML5, CSS3, Bootstrap and JavaScript.
-- Created and customized eCommerce storefronts for VARStreet clients, delivering tailored solutions that contributed to business growth and improved customer acquisition.
-- Designed brochures, promotional creatives, and digital assets to support branding and marketing initiatives.
-- Integrated custom HTML pages into WordPress, managing content updates and performance optimization.
-- Worked closely with digital marketing teams to deliver SEO-friendly pages and conversion-focused experiences.
-- Gained hands-on experience with React.js fundamentals and front-end development practices.
+- Designed E-commerce websites using the VARStreet CMS Platform, delivering user-friendly shopping experiences that contributed to a 30% increase in online sales.
+- Designed marketing landing pages focused on clear user journeys, responsive layouts, and conversion-oriented content, supporting digital marketing campaigns.
+- Started working with React.js to build a foundational understanding of component-based frontend development and modern JavaScript-based UI implementation.
+- Worked closely with marketing, product, and development teams in an Agile environment, participating in sprint planning, daily stand-ups, reviews, and iterative delivery.
 
 ## 🏆 Certifications
 
@@ -68,7 +66,6 @@
 
 ## 🤝 Connect with Me
 
-- 🌐 **Portfolio:** [www.akashuiux.com](https://www.akashuiux.com/)
 - 💼 **LinkedIn:** [akashnikam](https://www.linkedin.com/in/akashnikam/)
 - 💻 **GitHub:** [AkashGem](https://github.com/AkashGem)
-- 📧 **Email:** hello@akashuiux.com
+- 📧 **Email:** akashtech509@gmail.com
