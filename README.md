@@ -16,6 +16,13 @@
 
 ## 💼 Experience
 
+#### **Frontend Developer @ Contractual** *(Dec 2025 – Present)*
+
+- Built and maintained frontend applications using React.js and Angular.js, focusing on clean, scalable, and maintainable code.
+- Worked with Cursor AI and Claude AI to explore AI-assisted frontend development, including feature implementation, debugging, refactoring, and code optimization.
+- Reviewed and validated AI-generated code to ensure correctness, security, scalability, readability, and maintainability before implementation.
+- Explored AI-assisted workflows for reducing repetitive development tasks and improving frontend development productivity and delivery efficiency.
+  
 #### **Senior Software Engineer @ Novatechset Software** *(May 2022 - Nov 2025)*
 
 - Led the integration of a responsive web layout using modern JavaScript libraries, which enhanced user engagement by 30%, improving overall customer satisfaction metrics.
@@ -32,13 +39,6 @@
 - Collaborated with backend development teams to integrate RESTful APIs, ensuring efficient data handling and seamless frontend functionality.
 - Collaborated with UX/UI and development teams to address accessibility issues and maintain WCAG 2.1 compliance across web applications.
 - Contributed to Agile/Scrum teams by participating in sprint planning, code reviews, and product enhancements.
-
-#### **Software Developer @ Vidushi Infotech SSP PVT LTD** *(Dec 2020 – Apr 2021)*
-
-- Developed and customized WordPress websites, implementing responsive and user-friendly frontend interfaces using HTML5, CSS3, JavaScript, Bootstrap, and jQuery.
-- Converted PSD/XD designs into pixel-accurate HTML5 layouts, ensuring responsive and cross-browser compatible implementations.
-- Optimized WordPress websites for performance, responsiveness, page loading speed, and frontend efficiency, while maintaining design and functionality.
-- Collaborated with designers and development teams to translate design concepts into production-ready responsive web interfaces.
 
 #### **Web Designer @ VARStreet Inc.** *(Feb 2019 – SEP 2020)*
 
