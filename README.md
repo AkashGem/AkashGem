@@ -16,7 +16,7 @@
 
 ## 💼 Experience
 
-#### **Frontend Developer @ Contractual** *(Dec 2025 – Present)*
+#### **Frontend Developer *(Dec 2025 – Present)*
 
 - Built and maintained frontend applications using React.js and Angular.js, focusing on clean, scalable, and maintainable code.
 - Worked with Cursor AI and Claude AI to explore AI-assisted frontend development, including feature implementation, debugging, refactoring, and code optimization.
